@@ -1,2 +1,0 @@
-# happyending.github.io
-TsuLuvChang
