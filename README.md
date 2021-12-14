@@ -1,5 +1,6 @@
-* Trên PC
 • Tạo google sheet 
+
+* Trên PC
 1. Vào Driver chọn thư mục mới và chọn google trang tính
 2. Cột A: name
 3. Cột B: local
