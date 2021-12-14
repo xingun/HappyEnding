@@ -1,13 +1,23 @@
-• Tạo google sheet
-1. Cột A: name
-2. Cột B: local
-3. Cột C: wishes
-4. Đổi tên: data
-5. Chọn tiện ích mở rộng => app scritp 
+* Trên PC
+• Tạo google sheet 
+1. Vào Driver chọn thư mục mới và chọn google trang tính
+2. Cột A: name
+3. Cột B: local
+4. Cột C: wishes
+5. Đổi tên: data
+6. Chọn tiện ích mở rộng => app scritp 
+
+* Trên ĐThoại
+1. Tải google sheet + Kiwi Browser
+2. Vào google sheet vừa tải về rồi tạo như trên
+3. Copy link google sheet dán vào Kiwi Browser + để chế độ máy tính
+4. Chọn tiện ích mở rộng => app script
+
+# DÙNG PHIÊN BẢN CŨ CỦA SCRIPT
 
 • Làm form liên kết với script thì làm như sau:
 1. Tạo 1 file Lenh.gs theo format
-2. Paste code function vào => xuất bản nó dưới dạng ứng dụng web => lấy link thay vào JS + HTML
+2. Paste code function vào lenh.gs => Công bố => xuất bản nó dưới dạng ứng dụng web => lấy link thay vào JS + HTML
 
 • Mã code scritp.google.com
 
